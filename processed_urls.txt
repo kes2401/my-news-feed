@@ -1,0 +1,8 @@
+https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header
+https://support.theguardian.com?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D
+https://app.adjust.com/1hskf6nd?adgroup=USHeader
+https://jobs.theguardian.com
+https://theguardian.newspapers.com
+https://app.adjust.com/16xt6hai
+https://www.theguardian.com/tips
+https://jobs.theguardian.com
